@@ -1,5 +1,0 @@
-id,nombre,edad
-d01,pablo,25
-d02,miguel,26
-d03,karla,23
-d04,carolina,25
