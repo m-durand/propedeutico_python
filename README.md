@@ -11,7 +11,7 @@ Los datos con los que trabajaremos en este curso, que se pueden encontrar para s
 
 ## Temario
 
-### Sesión 1: Introducción a Python
+### 1: Introducción a Python
 
 1.  ¿Qué es y cómo funciona Python?
 2.  ¿Qué es un notebook?
@@ -32,7 +32,7 @@ Los datos con los que trabajaremos en este curso, que se pueden encontrar para s
     - Sets
     - Diccionarios
 
-### Sesión 2: Más de introducción a Python.
+### 2: Más de introducción a Python.
 
 1. Input
 2. Indexación y Slicing
@@ -47,7 +47,7 @@ Los datos con los que trabajaremos en este curso, que se pueden encontrar para s
    - Lambda
 7. Clases & Objetos
 
-### Sesión 3: Paquetes, archivos, más intro python
+### 3: Paquetes, archivos, más intro python
 
 1. Paquetes
    - pip
@@ -59,7 +59,7 @@ Los datos con los que trabajaremos en este curso, que se pueden encontrar para s
     - csv con pandas
 3. Arreglos (numpy)
 
-### Sesión 4: Exploración de bases de datos (pandas 1)
+### 4: Exploración de bases de datos (pandas 1)
 
 1. Generalidades de bases de datos
     - ¿Cuántas variables y observaciones tenemos?
@@ -83,7 +83,7 @@ Los datos con los que trabajaremos en este curso, que se pueden encontrar para s
     - Seleccionar subconjuntos basados en condiciones
 8. Reset index
 
-### Sesión 5: Más de pandas
+### 5: Más de pandas
 
 1. Arrays y Dataframes
 2. Operaciones básicas en Dataframes
@@ -97,7 +97,7 @@ Los datos con los que trabajaremos en este curso, que se pueden encontrar para s
     * Tipos de joins
     * Merge
 
-### Sesión 5: EDA y GEDA
+### 5: EDA y GEDA
 
 1. Introducción a análisis de datos
     - Objetivos 
@@ -114,7 +114,7 @@ Los datos con los que trabajaremos en este curso, que se pueden encontrar para s
     - Análisis práctica
 
 
-### Sesión 7: SQL básico
+### 7: SQL básico
 
 1. Introducción
     * Bases de datos
@@ -127,7 +127,7 @@ Los datos con los que trabajaremos en este curso, que se pueden encontrar para s
     * Obtener información con SQL
     * Modificar información con SQL
 
-### Sesión 8: Errores y _debugging_
+### 8: Errores y _debugging_
 
 1. Errores comunes
     * Signos faltantes (e.g. paréntesis, dos puntos, comas, etc.)
