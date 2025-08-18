@@ -1,4 +1,4 @@
-# Propedeutico de Python para la EGobiernoyTP - Verano 2024
+# Propedeutico de Python para la EGobiernoyTP - Verano 2025
 
 ¡Bienvenidos!
 
